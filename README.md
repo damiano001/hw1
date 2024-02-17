@@ -5,7 +5,7 @@ The project is developed during the Web Development course at the University.
 User Authentication: The application provides secure user authentication and registration functionality.
 ![Alt Text](/img1.png)<br>
 Post Sharing: The application enables users to create and share posts with their friends and followers.<br>
-Post interaction: Users can interact with posts adding likes or comments.
+Post interaction: Users can interact with posts adding likes or comments. <br>
 User Search: Users can search people on dedicate page.<br>
 News Feed: Users can view a personalized news feed displaying posts from their friends.<br>
 
