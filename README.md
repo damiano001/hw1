@@ -6,7 +6,7 @@ User Authentication: The application provides secure user authentication and reg
 ![Alt Text](/img1.png)<br>
 Post Sharing: The application enables users to create and share posts with their friends and followers.<br>
 Post interaction: Users can interact with posts adding likes or comments. <br>
-User Search: Users can search people on dedicate page.<br>
+User Search: Users can search people on dedicated page.<br>
 News Feed: Users can view a personalized news feed displaying posts from their friends.<br>
 
 ## Screenshot 
