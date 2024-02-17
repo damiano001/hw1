@@ -1,6 +1,6 @@
 ## Social Network Project
 This project is a social network web application developed using HTML, CSS, JavaScript, and PHP. The application allows users to create profiles, connect with friends, share posts, and engage in social interactions.
-
+The project is developed during the Web Development course at the University.
 ## Features
 User Authentication: The application provides secure user authentication and registration functionality.
 ![Alt Text](/img1.png)<br>
